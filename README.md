@@ -104,11 +104,3 @@ If you prefer, you can replace the `<img>` line with a direct GIF URL hosted els
 This README template is open — feel free to use and adapt it. If you reuse it, a small credit is appreciated.
 
 ---
-
-### Small notes & suggestions
-- If you want a fully-generated animated hero (GIF or SVG) I can create one for you (choose a style: `typewriter`, `geometric loop`, or `gradient wave`) and provide the file and commit-ready steps.
-- I can also convert this README into a version with dark-mode friendly images or produce separate `README_light.md` and `README_dark.md`.
-
----
-
-*Want me to produce the `assets/hero.gif` now? Tell me the style (typewriter / geometric / wave) and I’ll create it and show how to add it to the repo.*
