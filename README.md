@@ -96,7 +96,7 @@ If you prefer, you can replace the `<img>` line with a direct GIF URL hosted els
 ## Contact
 - Portfolio: https://tamim-amin.github.io/portfolio_demo/  
 - GitHub: https://github.com/Tamim-Amin  
-- Email: *(add your contact email here)*
+- Email: *tamimamin13579@gmail.com*
 
 ---
 
