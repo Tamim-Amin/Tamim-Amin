@@ -49,32 +49,7 @@
 
 <br/>
 
-## 🎯 About Me
 
-```javascript
-const tamim = {
-    location: "Sylhet, Bangladesh",
-    education: "Metropolitan University - Software Engineering",
-    currentFocus: "Full-Stack Web Development",
-    availability: "Open for freelance & collaboration",
-    
-    workingOn: [
-        "Building scalable web applications",
-        "Polishing frontend with React & Tailwind",
-        "Learning Django & advanced backend patterns"
-    ],
-    
-    askMeAbout: [
-        "JavaScript/React", 
-        "Java", 
-        "Python/Django",
-        "UI/UX Design",
-        "System Design Basics"
-    ],
-    
-    funFact: "I turn coffee into code ☕️ → 💻"
-};
-```
 
 <br/>
 
@@ -198,22 +173,7 @@ const tamim = {
 
 <br/>
 
-## 📈 Contribution Graph
 
-<div align="center">
-  
-  <!-- Snake animation - GitHub contribution snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamim-Amin/Tamim-Amin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamim-Amin/Tamim-Amin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tamim-Amin/Tamim-Amin/output/github-contribution-grid-snake.svg">
-  </picture>
-
-</div>
-
-> **Note:** To enable the snake animation, you'll need to set up a GitHub Action. See the setup instructions below.
-
-<br/>
 
 ## 💼 Let's Collaborate!
 
@@ -238,84 +198,11 @@ I'm always interested in working on exciting projects! Whether it's:
 
 <br/>
 
----
 
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😄 Here's a Joke to Make You Smile
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=react&hideBorder)
-
-</div>
 
 ---
 
 <br/>
-
-## 🎨 Setup Instructions
-
-### Adding the Snake Animation
-
-To enable the animated contribution snake:
-
-1. Create `.github/workflows/snake.yml` in your profile repository
-2. Add this workflow:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Tamim-Amin
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Enable GitHub Actions in repository settings
-4. Run the workflow manually once to generate the snake
-
-### Adding the Animated Hero GIF
-
-1. Create an `assets` folder in your repository root
-2. Add your animated GIF as `assets/hero.gif`
-3. Uncomment the hero image section in the README
-4. Commit and push
-
-### Customization Tips
-
-- **Color Scheme**: Change `3B82F6` to your preferred hex color
-- **Social Links**: Add your LinkedIn, Twitter, etc. in the contact section
-- **Projects**: Update with your actual project links as you publish them
-- **Typing Animation**: Modify the text in the typing-svg URL
-- **Stats Theme**: Try different themes: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`
-
-<br/>
-
----
-
 <div align="center">
 
 ### ⭐️ From [Tamim-Amin](https://github.com/Tamim-Amin) 
