@@ -90,12 +90,7 @@
 
 
 
-<div align="center">
-  
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamim-Amin&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak" />
 
-</div>
 
 <div align="center">
   
