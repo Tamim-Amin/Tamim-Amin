@@ -98,10 +98,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamim-Amin&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
-
-
-
 <br/>
+
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamim-Amin/Tamim-Amin/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamim-Amin/Tamim-Amin/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tamim-Amin/Tamim-Amin/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 🚀 Featured Projects
 
